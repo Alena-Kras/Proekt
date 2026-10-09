@@ -29,7 +29,7 @@
 
 ## 📈 Как воспроизвести проект
 1. **Запуск кода (Python):**
-   - Установите зависимости: `pip install pandas numpy matplotlib seaborn`
+   - Установите зависимости: `pip install pandas numpy matplotlib`
    - Откройте `cofee_sales.ipynb` в Jupyter Notebook или JupyterLab.
    - Выполните ячейки последовательно для воспроизведения анализа.
 2. **Визуализация (Tableau):**
